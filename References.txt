@@ -1,0 +1,18 @@
+
+Time Taken:
+6 hours
+
+Images Sources:
+https://www.freepik.com/ (Freepick)
+https://unsplash.com/    (Unsplash)
+https://www.pexels.com/  (Pexels)
+
+Logo:
+Created on figma (with pentool)
+
+
+I came up with two ways to make a slider 
+The first method is using transform rotate
+The second method is to use the card-front and card-back via bootstrap
+But I used the first method to exploit my space for personal creativity 
+without relying on ready-made things.
